@@ -1,0 +1,22 @@
+{
+    "name": "wmeng2020/php-fruit",
+    "description": "Display page loaded time",
+    "keywords": ["laravel","performance"],
+    "homepage": "https://github.com/wmeng2020/php-fruit",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "wmeng2020",
+        "email": "745511670@@qq.com",
+        "homepage": "http://www.tanteng.me",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "laravel/framework": "~4.0"
+    },
+    "autoload": {
+      "psr-4": { "Loading\\": "" }
+    }
+}
